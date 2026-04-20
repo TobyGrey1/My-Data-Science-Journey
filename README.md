@@ -8,4 +8,5 @@ I have been learning data science for 2 months. This repo shows what I’ve lear
 - Design Thinking
 - Communication
 - Team Experience
+
 More updates coming as I learn.
