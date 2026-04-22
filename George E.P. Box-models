@@ -1,0 +1,41 @@
+## Understanding Models in Data Science
+
+## What I Learned
+
+Today I came across an important idea:
+
+“All models are wrong, but some are useful.”
+
+This means that models are simplified representations of real-world situations. 
+They cannot capture every detail, so they are never completely accurate.
+
+## What is a Model?
+
+A model is a way of representing real-world data to help us understand patterns, relationships, or make predictions.
+
+Examples:
+- Predicting sales based on past data
+- Estimating future trends
+- Understanding relationships between variables
+
+## Why Models Are “Wrong”
+
+- They simplify reality
+- They ignore some variables
+- They depend on assumptions
+
+## Why Models Are Still Useful
+
+- They help us make decisions
+- They reveal patterns in data
+- They allow predictions (even if not perfect)
+
+## My Understanding
+
+A model does not need to be perfect to be valuable. 
+The goal is to make it useful enough to guide decisions.
+
+## Questions
+
+- How do we measure if a model is “useful”?
+- What makes one model better than another?
